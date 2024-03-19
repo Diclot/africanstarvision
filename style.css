@@ -1,0 +1,1184 @@
+body{  
+    background-color: rgb(83, 83, 81);
+    margin: 0%;
+padding: 0%;
+color: yellow;
+}
+.click{
+    color: rgb(190, 166, 166);
+}
+.all{
+   
+    padding: 0%;
+ background-color: #8679cc;
+
+ 
+}
+
+
+
+
+
+.avatar {
+
+  /* padding-left: 7%; */
+  width: 70px;
+  height: 70px;
+  border-radius: 300px;
+  display: flex;
+  position: relative;
+ 
+
+
+}
+.gil-{
+  background-attachment: fixed;
+  background-image: url(/pic/team\ pic.jpg);
+position: relative;
+display: flex;
+width: 500px;
+height: 200px;
+text-align: center;
+gap: 50px;
+
+}
+
+
+
+
+
+.dev{
+     padding-left: 79%;
+    gap: 10px;
+display: flex;
+position: relative;
+height: 100%;
+width: 200px;
+text-overflow: clip;
+border-bottom: hotpink;
+overflow: 2px;
+}
+/*   all pic */
+.dicol{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    display: flex;
+    gap: 100px;  
+
+}
+/* second pic */
+.well{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    display: flex;
+    gap: 30px; 
+
+}
+/* nav */
+.nav{
+    color: blue;
+    text-align: center;
+    align-items: center;
+    background-color: rgb(245, 187, 187);
+    border-radius: 10px;
+
+}
+
+
+.ios{
+    height: min-content 100px;
+    display: flex;
+    height: 80px;
+    width: 0px;
+    left: 30px;
+    padding-top: 10px;
+    padding-left: 20px;
+
+
+}
+.obect1{
+    height: 10%;
+    width: 1%;
+    padding: 0%;
+    gap: 5px;
+  
+}
+.obeject{
+    height: 100%;
+    width: 100%;
+    display: contents;
+    text-align: center;
+    align-items: center;  
+   background-image: url(/Chibangu/elombemzungu.jpg); 
+ 
+}
+
+
+
+
+.wecol{
+    width: 500px;
+    height: fit-content;
+background-color: rgb(247, 144, 10);
+
+
+}
+.pichaa{
+    width: 300px;
+    height: 130px;
+    position: absolute;
+    display: flex;
+    border-radius: 500px;
+    box-shadow: 30px;
+    gap: 50%;
+}
+/* PIC 1 */
+.pichaa1{
+    width: 700px;
+    height: 220px;
+    position: absolute;
+    display: flex;
+
+   
+}
+
+
+
+.wecol1{
+    border-radius: 50px;
+    background-color: blanchedalmond;
+    width: 250px;
+    height: 100px;
+    text-overflow: clip;
+    text-align: center;
+    border-bottom: 200px;
+    align-content: end;
+    align-items: end;
+    gap:50px;
+    margin: 50px;
+}
+.wecol2{
+    border-radius: 50px;
+    background-color: rgb(102, 16, 241);
+    width: 250px;
+    height: 100px;
+    text-overflow: clip;
+    text-align: center;
+    border-bottom: 200px;
+    gap: 50;
+    margin: 30px;
+    overflow: visible;
+    overflow: 100px;
+    box-shadow: 200px;
+}
+.wecol3{
+    border-radius: 50px;
+    background-color: blanchedalmond;
+    width: 250px;
+    height: 100px;
+    text-overflow: clip;
+    text-align: center;
+    border-bottom: 200px;
+    glyph-orientation-horizontal: 200px;
+    gap: 50px;
+    margin: 110px;
+}
+
+/* all we do */
+.tex{
+   text-align: center; 
+   color: black;
+
+}
+.hall{
+    border-radius: 50px;
+    background-color: rgb(102, 16, 241);
+    width: 250px;
+    height: 100px;
+    text-overflow: clip;
+    text-align: center;
+    border-bottom: 200px;
+    gap: 50;
+    margin: 50px;
+    padding: 500px;
+    
+}
+/* why choice us */
+.ablite{
+  
+padding: 15%;
+    margin: 0%;
+    position: absolute;
+    display: flex;
+    gap: 100px;
+
+}
+.hopa{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    display: flex;
+    gap: 30px;padding: auto;
+
+}
+.hopa1{
+    width: 100px;
+    height: 100px;
+    
+  
+
+}
+body {
+    font-family: "Lato", sans-serif;
+  }
+  
+  
+   
+  /* The navigation menu links */
+  /* .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  } */
+  
+  /* When you mouse over the navigation links, change their color */
+  /* .sidenav a:hover {
+    color: #f1f1f1;
+  } */
+  
+  /* Position and style the close button (top right corner) */
+  /* .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  } */
+  
+  /* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+  /* #main {
+    transition: margin-left .5s;
+    padding: 20px;
+  } */
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  /* @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  } */
+  .header1{
+        background-color: #666;
+       
+        text-align: center;
+        font-size: 35px;
+        color: white; 
+        padding-left: 25px;   
+  }
+
+  /* section code */
+  .section1{
+        display: -webkit-flex;
+        display: flex;
+      padding: 0%;
+      margin: 0%;
+  }
+
+  /* nav1 code */
+
+  .git {
+    /* -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1; */
+   
+   
+    margin: 0%;
+  }
+  .nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  /* artical code */
+  .article {
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #f1f1f1;
+    padding: 10px;
+  }
+  .footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+  }
+  /* footere */
+  .sidenav1 .closebtn {
+    position: relative;
+    
+   
+  }
+  .sidenav1 {
+   
+  
+    font-size: 25px;
+    color: #121018;
+    background-color: #a75f5f;
+  display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius: 100px;
+    position: relative;
+    text-decoration: none;
+    font-size: 25px;
+
+  }
+  /* btn33 */
+  .btn33{
+    border-radius: 59px;
+   
+    border-color: #fcaaaa;
+  }
+  #btn33 :hover{
+    color: #fa4242;
+    height: 50px;
+    width: 30px;
+  }
+    
+  @media screen and (max-height: 450px) {
+    .sidenav1 {padding-top: 15px;}
+    .sidenav1 a {font-size: 18px;}
+  }
+  /* icon footer */
+  .nvi-u{
+    position: relative;
+    display: flex;
+         align-items: center;
+         text-align: center;
+  
+    
+    
+              
+    background-color: #301f1f;
+  }
+  .ba--{
+    position: relative;
+    display: flex;
+width: 100px;
+height: 100px;
+right: 200px;
+  
+  }
+  .nvi-u a:hover {
+    color: #ece5e5;
+  }
+  .artis{
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    -webkit-flex: 3;
+    -ms-flex: 3;
+    flex: 3;
+    background-color: #301f1f;
+    padding: 35px;
+    margin: left 12px;
+    grid-area: 50px;
+    gap: 500px;
+    border-radius: 20px;
+          
+            
+  }
+
+  /* 222222 */
+  .cc-as :hover{
+    
+color: #fcfcff;
+ 
+
+  }
+  /* info***************************************************************** */
+  .info--{
+ color: #f0eff3;
+ gap: 200px;
+ display: flex;
+ position: relative;
+ padding-left: 10px;
+ padding-top: 50px;
+
+  }
+  .info--:hover{
+    color: yellow;
+  }
+.info--hover1{
+  color: #f1f1f1;
+}
+
+  #title--{
+background-attachment: fixed;
+display: flex;
+position: relative;
+gap: 350px;
+padding-left: 20px;
+  }
+  
+  .edit--{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    gap: 20px;
+  } 
+  #para--{
+background-image: url(/picture/1709034727222.jpg);
+display: flex;
+position: relative;
+gap: 50PX;
+padding-left: 20px;
+border-radius: 50px;
+background-attachment: fixed;
+background-attachment: fixed;
+color: #f4f2f7;
+background-color: #301f1f;
+}
+#para--:hover{
+ color: #a75f5f;
+  display: flex;
+
+}
+
+#dir--{
+  background-attachment: fixed;
+  background-image: url(/picture/dron.jpg);
+  background-position-x: center;
+  color: #000;
+}
+#dirpict--{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  gap: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  .del-del{
+    display:flex;
+   
+    position: absolute;
+    width: 700px;
+    height: 500px;  margin-left: 200px;
+    margin: 80px;
+  }
+  .fort-{
+    display:flex;
+    position: absolute;text-align: center;align-items: center;
+  }
+.gil-{
+  display: flex; position:relative; width: 100px;
+  height: 100px;
+  padding:200px;
+  gap: 400px;
+ 
+
+}
+/* imagess galary */
+* {
+  box-sizing: border-box;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #8a4040;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+ 
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+ 
+/* about page */
+/* 222222222222222222222 */
+.nav-1{
+border: #5f5d5d 100px 100px 50px 25px;
+position: relative;
+display: flex;
+border-radius: 100px;
+text-align: center;
+align-items: center;
+gap: 250px;
+
+background-clip:unset;
+/* background-image: url(/hopeshop/pic/dik.jpg); */
+background-attachment: fixed;
+}
+
+ .dikii{
+  position: relative;
+  border: #ece5e5 100px 100px 50px 25px;
+  text-align: center;
+align-items: center;
+background-attachment: fixed;
+/* background-image: url(/hopeshop/pic/activity.jpg); */
+ }
+ .nav-10{
+  position: relative;
+  border: #f1f1f1;
+  text-align: center;
+align-items: center;
+border-radius: 50px;
+ }
+
+ /* container2 */
+ .container2{
+  background-image: url(/pic/activity2.jpg);
+  background-attachment: fixed;
+  border-radius: 130px;
+ }
+ /* object pic oi oi */
+ .oi-oi{
+
+display: flex;
+position: relative;
+width: 150px;
+height: 150px;
+padding-top: 10px;
+left: 20px;
+
+
+ }
+ /* end end end */
+
+ /* butto bt1 */
+.bt1{
+background-origin: padding-box;
+border-color: #222 #f8b0b0 #ece5e5;
+border-radius: 10px;
+
+position: relative;
+}
+.boding1{
+  background-color: aliceblue;
+ 
+}
+.one-{
+  width: 0px;
+  height: 0px;
+  position: relative;
+}
+/* video */
+#myVideo {
+  position:absolute;
+  right: 0;
+  bottom: 0;
+  width: 600px;
+  height: 250px;
+  align-items: center;
+  text-align: center;
+
+ 
+
+}
+
+.content {
+  position: fixed;
+ padding: 10px;
+
+  color: #f1f1f1;
+  display: flex;
+  gap: 25px;
+
+
+ 
+}
+
+#myBtn {
+  width: 100px;
+  font-size: 18px;
+  right: 250px;
+  bottom: 0;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 50px;
+  gap: 100px;
+  position: absolute;
+}
+
+#myBtn:hover {
+  background: #f50404;
+
+}
+
+.vi-d{
+  position: relative;
+  display: flex;
+  text-align: center;
+  align-items: center;
+line-gap-override: 20%;
+padding-top: 220px;
+}
+
+
+.plaine{
+ display: flex; 
+ position: relative;
+ width: 100px;
+ height: 100px;
+}
+/* lpic..... */
+.debitis{
+  
+  width: 200px;
+  height: 200px;
+  position: relative;
+display: flex;
+  border-radius: 600%
+}
+
+.smal-container{
+  
+  display: contents;
+  position: relative;
+  width: 500pxpx;
+  height: 100px;
+  top: 100px;
+ left: 300px;
+  gap: 200px;
+}
+#di--1{
+  display:flex ;
+  position: relative;
+padding-top: 20px;
+  gap: 130px;
+
+}
+
+/* blog pageee */
+.paragraoh{
+  image-rendering: 100px;
+width: 270px;
+height: 250px;
+display: flex;
+position: relative;
+gap: 7px;
+}
+.lin-{
+ 
+  position: relative;
+  left: 0%;
+  align-items: center;
+  text-align: center; 
+  display: flex;
+  gap: 25px;
+  border-radius: 200px;
+  color: #8679cc;
+  border-color: #fa4242;
+}
+.lin-:hover{
+background-color: yellow;
+}
+
+/* bagggggggggggggggggg */
+.bg--{
+  background-image: url(/pic/talentboy.jpg);
+  backface-visibility: hidden;
+  background-attachment: fixed;
+}
+/* biggggggggggggggggggg */
+.bb-b{
+
+  background-image: url(/pic/studen.jpg);
+  backface-visibility: hidden;
+  background-attachment: fixed;
+  color: #000;
+  text-align: center;
+}
+/* obect....................... */
+.obect--{
+  width: 300px;
+  height: 280px;
+  display: flex;
+  position: sticky;
+  padding: 7,3%;
+  grid-area: 15px;
+  gap: 10px;
+}
+
+/* paar################## */
+.par--{
+  display: flex;
+  position: relative;
+  width: 2000px;
+  
+color: green;
+background-color: #ece5e5;
+}
+.par-- :hover{
+background-color: #f5a7a7;
+left: 4px;
+
+
+border-radius: 220px;
+
+
+}
+
+
+
+.chibangu{
+width: 200px;
+
+display: flex;
+position: relative;
+gap: 100px;
+padding-left: 100px;
+align-items: center;
+text-align: center;
+margin-left: 0%;
+}
+.container{
+  font-size: medium;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  gap: 90px;
+  display: flex;
+position: relative;
+
+
+background-repeat: no-repeat;
+background-position: 100px;
+background-size: cover;
+backface-visibility: visible;
+backdrop-filter: 10px;
+background-position-x: center;
+border-radius: 40px;
+
+align-items: center;
+text-align: center;
+}
+#avatar1{
+
+
+width: 500%;
+height: 500%;
+border-radius: 10px;
+display: flex;
+position: relative;
+}
+
+/* abou3333333333333333333333333333333 */
+.about---{
+  display: flex;
+  width: 500px;
+  height: 500px;
+}
+/* blog page22222222222222222222222222222222222222222222222222 */
+
+.header3 {
+  text-align: center;
+  padding: 32px;
+  padding-left: 200px;
+  text-align: center;
+
+}
+
+.row {
+  display: -ms-flexbox; /* IE 10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE 10 */
+  flex-wrap: wrap;
+  padding: 0 4px;
+  padding-left: 50px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  -ms-flex: 50%; /* IE 10 */
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 8px;
+  vertical-align: middle;
+  width: 300px;
+  height: 300px;
+}
+
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #6d0606;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.btn:hover {
+  background-color: #ddd;
+}
+
+.btn.active {
+  background-color: #666;
+  color: white;
+}
+.onenet{
+  width: 200px;
+  height: 200px; 
+display: flex;
+
+
+
+}
+.dddd{
+
+background-position: 100px;
+background-size: 500px;
+background-position-x: center;
+background-repeat: no-repeat;
+width: 400px;
+height: 400px;
+display: flex;
+  gap: 60px;
+padding-left: 8%;
+border-radius: 500;
+}
+#iiiiiii{
+ padding-top: 1%;
+width: 200px;
+height: 200px;
+border-radius: 10px;
+display: flex;
+position: relative;
+gap: 50px;
+padding-left: 50px;
+}
+#lcontainer{
+  display: flex;
+position: relative;
+width: 10px;
+height:20px ;
+}
+.googp :hover{
+  background-color: #8679cc;
+  display: flex;
+position: relative;
+ 
+}
+.googp{
+  display: flex;
+  position: relative;
+color: #000;
+}
+#pppp1{
+  border: #f0eff3
+  color green;
+  background-color: #f0eff3;
+  align-items: center;
+  text-align: center;
+  display: flex;
+  gap: 50px;
+  padding-top: 20px;
+  padding-left: 40px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  scrollbar-color: red;
+  background-size: 70%;
+  backface-visibility: visible;
+  background-image: url(/Chibangu/cameramzungu.jpg);
+}
+#pppp2{
+  background: #b3a7a7;
+  border-radius: 50px;
+  bottom: 20px;
+  border-radius: 100px;
+  color: #000;
+  width: 300px;                              
+  height: 300px;
+  gap: 30px;
+ 
+  display: flex;
+  position: relative;
+  padding-left: 20px;
+}
+#pppp2 :hover{
+background-color: #8679cc;
+border-top:yellow ;
+box-shadow: yellow;
+border-bottom: #ece5e5;
+border-radius: 40px;
+width: 300px;
+  height: 250px;
+}
+#bool{
+  display: flex;
+  width: 300px;
+  height: 500px;
+  left: 0%;
+  right: 0%;
+  margin-top: 0%;
+padding-left: 10px;
+
+}
+#bool:hover{
+  display: flex;
+  background-image: url(/Chibangu/elombe.jpg);
+  background-position: 0%;
+  backface-visibility: visible;
+  background-size: cover;
+background-color: #8679cc;
+padding-left: 300px;
+}
+#pppp21{
+
+
+color: #110925;
+background-color: #8679cc;
+border-radius: 30px;
+}
+#pppp21:hover{
+
+
+  color: #110925;
+  text-align: center;
+  background-color: whitesmoke;
+
+  border-radius: 50px;
+  }
+.chii{
+  gap: 550px;
+  display: flex;
+  position: relative;
+  padding-left: 50px;
+  padding-top: 20px;
+  background-attachment: fixed;
+  background-image: url(/Chibangu/IMG_9579.JPG);
+  border-radius: 50px;
+}
+.chii:hover{
+  background-attachment: fixed;
+  background-image: -moz-element();
+  background-color: #808581;
+  background-image: url(/Chibangu/IMG-20240303-WA0036.jpg);
+  display: flex;
+  position: relative;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+/* contact2222222222222222222222222222222222222222222222222222222222222222222222222222 */
+.icon{
+  display: flex;
+  background-color: #975e89;
+  gap: 100px;
+  width: 10px;
+  height: 10px;
+  border-radius: 200px;
+  padding-top: 20px;
+  padding-left: 300px;
+}
+
+.vision{
+  background-color: #8679cc;
+  border-radius: 30px;
+}
